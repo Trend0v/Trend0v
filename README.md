@@ -24,7 +24,7 @@
 
 ### 💬 Связь & Правила общения
 
-* ✈️ **Мой Telegram:** [@K0maruTrende](https://t.me/K0maruTrende)
+* ✈️ **Мой Telegram:** [@Trend0vv](https://t.me/Trend0vv)
 
 > [!IMPORTANT]
 > ### 🛑 Пожалуйста, будьте вежливыми!
@@ -34,5 +34,5 @@
 ---
 
 <div align="center">
-  <i>«Код — это музыка мысли, а программист — её исполнитель» ⚡ Trendov</i>
+  <i>«Код — это музыка мысли, а программист — её исполнитель» Trendov</i>
 </div>
